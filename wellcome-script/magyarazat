@@ -1,0 +1,29 @@
+# First Bash Script
+
+Ez az első egyszerű Bash szkriptem Linux admin gyakorláshoz.
+
+## Script
+
+```bash
+#!/bin/bash
+
+echo "Hello, Linux admin!"
+echo "Current user: $(whoami)"
+echo "Current date: $(date)"
+echo "Current directory: $(pwd)"
+echo "Hostname: $(hostname)"
+```
+
+## Futtatás
+
+```bash
+chmod +x hello-system.sh
+./hello-system.sh
+```
+
+## Mit tanulunk belőle?
+
+- `#!/bin/bash` megmondja, hogy Bash értelmezővel fusson.
+- `echo` szöveget ír ki.
+- `$(command)` lefuttat egy parancsot, és beilleszti az eredményét.
+- `chmod +x` futtathatóvá teszi a fájlt.
