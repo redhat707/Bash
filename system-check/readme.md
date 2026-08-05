@@ -25,4 +25,4 @@ lemezhasználata eléri vagy meghaladja a 80 százalékot.
 A repository klónozása:
 
 ```bash
-git clone https://github.com/FELHASZNALONEV/system-check.git
+git clone https://github.com/redhat707/system-check.git
