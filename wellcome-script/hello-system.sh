@@ -1,4 +1,4 @@
-#!/bin/bash  
+#!/bin/bash   
 
 echo "Hello, Linux admin!"
 echo "Current user: $(whoami)"
