@@ -1,4 +1,4 @@
-# Linux System Check
+# Linux System Check 
 
 Egyszerű Bash script Linux rendszerek alapvető állapotának ellenőrzésére.
 
